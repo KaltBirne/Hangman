@@ -1,5 +1,4 @@
 import random
-#import pygame
 
 #Início do jogo
 def forca():
